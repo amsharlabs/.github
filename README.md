@@ -45,7 +45,7 @@ Explore the repositories in this organization for practical projects, experiment
 ## 🤝 Connect
 
 - **Personal GitHub:** https://github.com/mdamshar
-- **LinkedIn:** Replace this line with your actual LinkedIn profile URL
+- **LinkedIn:** https://www.linkedin.com/in/mdamshar4u/
 - **Portfolio:** Add your live portfolio URL when available
 
 ---
