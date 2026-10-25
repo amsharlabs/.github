@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Amshar Labs
+# Amshar Labs
 
 ### Build. Innovate. Automate.
 
